@@ -1,6 +1,6 @@
 ---
 title: Modernizing Public Hockey Analytics
-date: 2022-05-11 12:00:00 -0700
+date: 2022-05-12 12:00:00 -0700
 categories: [Projects]
 tags: [data-science, data-engineering, python, singer, meltano, bigquery, dbt]     # TAG names should always be lowercase
 mermaid: True

@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-icon: fas fa-portfolio
+icon: fas fa-code
 order: 4
 ---
 We like to work on projects together. Below is our (growing) collection.
